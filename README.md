@@ -7,14 +7,23 @@ This project involves creating a system that highlights sentences in a text by a
 **Libraries Used:** spaCy, Headq
 **Tasks Performed:**
 1.Load spaCy Model: Utilize spaCy's pre-trained models for efficient NLP processing.
+
 2.Tokenization: Break down text into individual tokens (words, punctuation, etc.).
+
 3.Lemmatization and POS Tagging: Reduce words to their base forms and tag parts of speech.
+
 4.Stop Words Removal: Eliminate common words that do not contribute to the meaning.
+
 5.Punctuation Removal: Remove punctuation marks from the text.
+
 6.Word Frequency Calculation: Calculate the frequency of each word.
+
 7.Normalization of Word Frequencies: Normalize word frequencies to a common scale.
+
 8.Sentence Tokenization: Split the text into individual sentences.
+
 9.Sentence Scoring: Assign scores to sentences based on the importance of their words.
+
 10.Summary Extraction: Extract and highlight sentences with the highest scores to form the summary.
 
 ### Deployment:
